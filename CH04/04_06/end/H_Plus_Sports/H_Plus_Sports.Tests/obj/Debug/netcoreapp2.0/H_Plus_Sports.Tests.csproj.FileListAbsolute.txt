@@ -1,0 +1,17 @@
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\bin\Debug\netcoreapp2.0\H_Plus_Sports.Tests.deps.json
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\bin\Debug\netcoreapp2.0\H_Plus_Sports.Tests.runtimeconfig.json
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\bin\Debug\netcoreapp2.0\H_Plus_Sports.Tests.runtimeconfig.dev.json
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\bin\Debug\netcoreapp2.0\H_Plus_Sports.Tests.dll
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\bin\Debug\netcoreapp2.0\H_Plus_Sports.dll
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\bin\Debug\netcoreapp2.0\H_Plus_Sports.pdb
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\obj\Debug\netcoreapp2.0\H_Plus_Sports.Tests.csprojResolveAssemblyReference.cache
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\obj\Debug\netcoreapp2.0\H_Plus_Sports.Tests.csproj.CoreCompileInputs.cache
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\obj\Debug\netcoreapp2.0\H_Plus_Sports.Tests.AssemblyInfoInputs.cache
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\obj\Debug\netcoreapp2.0\H_Plus_Sports.Tests.AssemblyInfo.cs
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\obj\Debug\netcoreapp2.0\H_Plus_Sports.Tests.csproj.CopyComplete
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\bin\Debug\netcoreapp2.0\H_Plus_Sports.Tests.pdb
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\obj\Debug\netcoreapp2.0\H_Plus_Sports.Tests.dll
+C:\Users\cwood\Desktop\Working\H_Plus_Sports\H_Plus_Sports.Tests\obj\Debug\netcoreapp2.0\H_Plus_Sports.Tests.pdb
